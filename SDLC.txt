@@ -1,0 +1,54 @@
+# SDLC:
+
+SDLC stands for software development life cycle.
+
+SDLc is a structure process that enables the production of high quality ,
+low cost software ,in the shortest possible production time .
+
+SDLC involves:
+
+1)Analysis
+2)Designing
+3)Development
+4)Testing
+5)Deploymrnt
+6)Maintenance
+
+==>Planning and Analysis involves checking the market need of the project .
+It invloves defining the purpose of the application
+
+This step is important and it helps to see that the project doesn't deviate 
+from it's original purpose and plan.
+
+==> Designing involves seeing how the application will work.
+
+As the name suggests designing has to do with the user interface and design 
+of the application.It involves managing how the application wil appear and respond 
+to input .Designing  has to do with the front end development.
+
+==>Software developement has to do with actual writing of the program and involves 
+use of back end development languages .In this case source code is managed.
+
+==>Software testing as the name suggest ,has to do with testing of the application,
+whether the  application meets the requirement and the goal that was set during the 
+analysis phase.Software testing is automated or manually done. Software testing involves
+finding errors and glitches and has to do with fixing those problems.
+
+==>Deplyment has to do with introducing the application to the market or launching it to 
+the users.
+
+==>In Maintenance, development cycle is almost finished but the maintenance part is still
+important. In this phase,the other bugs discovered by user which weren't found during 
+testing are resolved and as the name suggests this phase has to do with maintenance of 
+the launched application. 
+
+#DFD:
+
+DFD stands for Data Flow Diagram.
+
+==>A Data flow diagram is a mean of presenting the flow of data through a process or 
+a system which includes the input as well as output entity.
+
+
+
+ 
